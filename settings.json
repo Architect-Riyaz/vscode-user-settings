@@ -1,0 +1,151 @@
+
+{
+  "php.validate.executablePath": "C:/xampp/php/php.exe",
+  "code-runner.executorMap": {
+            "python": "C:/Users/Riyaz/AppData/Local/Programs/Python/Python37-32/python.exe",
+    },
+    "composer.executablePath": "C:\\ProgramData\\ComposerSetup\\bin\\composer.bat",
+    "emmet.triggerExpansionOnTab": true,
+    "blade.format.enable": true,
+    "emmet.includeLanguages": {
+        "blade": "html"
+      },
+      "editor.quickSuggestions": {
+        "strings": true
+      },  
+  "php.validate.run": "onType",
+  "editor.snippetSuggestions": "top",
+  "terminal.integrated.shell.windows": "C:\\windows\\System32\\cmd.exe",
+  "explorer.sortOrder": "type",
+  "git.autofetch": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 19,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "C_Cpp.updateChannel": "Insiders",
+  "python.linting.pycodestyleEnabled": false,
+  "git.enableSmartCommit": true,
+  "window.zoomLevel": 0,
+  "editor.tabSize": 2,
+  "workbench.colorTheme": "The Dark Knight",
+  "editor.lineNumbers": "relative",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "python.defaultInterpreterPath": "C:\\Users\\Riyaz\\.virtualenvs\\gta-ZdLBN-LA\\Scripts\\python.exe",
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.colorCustomizations": {
+      "statusBar.background" : "#000000",
+      "statusBar.noFolderBackground" : "#212121",
+      "statusBar.debuggingBackground": "#263238"
+  },
+  "[php]": {
+    "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+  },
+  "gitlens.views.repositories.showBranchComparison": null,
+  "emojisense.languages": {
+        "plaintext": {
+            "markupCompletionsEnabled": true,
+            "emojiDecoratorsEnabled": true
+        },
+        "javascript.validate.enable": false,
+        "abap": true,
+        "bat": true,
+        "bibtex": true,
+        "clojure": true,
+        "coffeescript": true,
+        "c": true,
+        "cpp": true,
+        "csharp": true,
+        "css": true,
+        "diff": true,
+        "dockerfile": true,
+        "fsharp": true,
+        "git-commit": true,
+        "git-rebase": true,
+        "go": true,
+        "groovy": true,
+        "handlebars": true,
+        "html": true,
+        "ini": true,
+        "java": true,
+        "javascript": true,
+        "javascriptreact": true,
+        "json": true,
+        "jsonc": true,
+        "latex": true,
+        "less": true,
+        "lua": true,
+        "makefile": true,
+        "markdown": true,
+        "objective-c": true,
+        "objective-cpp": true,
+        "perl6": true,
+        "php": true,
+        "powershell": true,
+        "jade": true,
+        "python": true,
+        "r": true,
+        "razor": true,
+        "ruby": true,
+        "rust": true,
+        "scss": true,
+        "sass": true,
+        "shaderlab": true,
+        "shellscript": true,
+        "sql": true,
+        "swift": true,
+        "typescript": true,
+        "typescriptreact": true,
+        "tex": true,
+        "vb": true,
+        "xml": true,
+        "xsl": true,
+        "yaml": true
+    },
+    "vim.useCtrlKeys": true,
+    "vim.useSystemClipboard": true,
+    // Insert mode
+    "vim.insertModeKeyBindings": [
+      // In insert mode jj to escape
+      {
+        "before": ["j", "j"],
+        "after": ["<Esc>"]
+      }
+    ],
+    // Visual mode
+    "vim.visualModeKeyBindings": [
+      // In visual mode i goes to insert mode
+      {
+        "before": ["i"],
+        "after": ["<Esc>", "i"]
+      }
+    ],
+    // Escaping from vim for below commands
+    "vim.handleKeys": {
+      // Select all
+      "<C-a>": false,
+      // VS Code search in file
+      "<C-f>": false,
+      // VS Code new marker @ next occurence
+      "<C-d>": false,
+      // Copy
+      "<C-c>": false,
+      // Cut
+      "<C-x>": false,
+      // Paste
+      "<C-v>": false,
+      // Close Window
+      "<C-w>": false,
+    },
+    "notebook.kernelProviderAssociations": [    
+    ],
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.tsdk": ""
+}
